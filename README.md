@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faiz</h1>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">🚀 Web Developer | Frontend Enthusiast | MERN Stack Explorer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 💼 Available for freelance projects and collaborations.
 - 🌐 Check out my portfolio: [My Portfolio](#)
 - 📝 I regularly write blogs on **JavaScript & Apps Script**. [Read here](#)
-- 📫 **Reach me at:** Faiz@example.com
+- 📫 **Reach me at:** Sahil@example.com
 
 ---
 
@@ -33,17 +33,17 @@
 ---
 
 ### 🏆 Achievements
-- ⭐ Built **Dailyfy Hub**, an online Stationery store using JavaScript.
-- 🌟 Created **Article Summarizer**, a React-based news website.
+- ⭐ Built **Resume Maker**, an online Resume Builder using JavaScript.
+- 🌟 Created **Todo Application**, a React-based news website.
 - 📦 Developed an all-in-one e-commerce platform, **Shop-House**.
-- ✅ Completed an internship at Cloudfort Technologies as a Web developer.
+- ✅ Completed an internship at Learn & Build Technologies as a Full Stack developer.
 
 ---
 
 ### 🌟 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:suhail@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sahil@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/YourGitHubUsername" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
